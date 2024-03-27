@@ -13,7 +13,7 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #000060;
+	background-color: #E8631F;
 	font-family: "Shrikhead", serif; 
 }
 
@@ -54,4 +54,30 @@ footer a:hover {
 .carousel-item img {
     object-fit: cover; /* Adjust the image to cover the area without distorting the aspect ratio */
     height: 500px; /* Example fixed height; adjust as needed */
+}
+
+.card-img-custom {
+  width: 100%; /* Ensure it takes up the full width of the card */
+  object-fit: cover; /* Cover the area without breaking aspect ratio */
+  height: 200px; /* Example fixed height */
+}
+
+.btn-custom {
+  background-color: #FFAF35; /* Green background */
+  color: white; /* White text */
+  border-color: #FFAF35; /* Green border */
+}
+
+.btn-custom:hover {
+  background-color: #E8631F; /* Darker green background on hover */
+}
+
+.btn-red {
+  background-color: #C40E5A; /* Green background */
+  color: white; /* White text */
+  border-color: #C40E5A; /* Green border */
+}
+
+.btn-red:hover {
+  background-color: #E8631F; /* Darker green background on hover */
 }
