@@ -118,3 +118,11 @@ footer a:hover {
   object-fit: cover; /* Cover the area without breaking aspect ratio */
   height: 300px; /* Example fixed height */
 }
+
+.custom-container-bg-orange {
+  background-color: #E8631F; 
+}
+
+.custom-container-bg-beige {
+  background-color: #FFF3E1; 
+}
