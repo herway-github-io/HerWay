@@ -66,9 +66,9 @@ footer a:hover {
 }
 
 .btn-custom {
-  background-color: #FFAF35; /* Green background */
-  color: white; /* White text */
-  border-color: #FFAF35; /* Green border */
+  background-color: #FFAF35; 
+  color: white; 
+  border-color: #FFAF35; 
 }
 
 .btn-custom:hover {
@@ -113,3 +113,8 @@ footer a:hover {
   color: #C40E5A; 
 }
 
+.home-img-custom {
+  width: 500px; /* Ensure it takes up the full width of the card */
+  object-fit: cover; /* Cover the area without breaking aspect ratio */
+  height: 300px; /* Example fixed height */
+}
