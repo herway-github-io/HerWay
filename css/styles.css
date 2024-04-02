@@ -90,6 +90,26 @@ footer a:hover {
 }
 
 .wide-input {
-    width: 40%; /* Or you can set a specific pixel width like 500px */
+    width: 40%; 
+}
+
+.custom-container-bg {
+  background-color: #FFF3E1; 
+}
+
+.custom-container-bg-green {
+  background-color: #457F4B; 
+}
+
+.custom-text-color {
+  color: #C40E5A; 
+}
+
+.custom-text-color-beige {
+  color: #FFF3E1; 
+}
+
+.custom-link-color {
+  color: #C40E5A; 
 }
 
