@@ -56,7 +56,7 @@ footer a:hover {
 
 .carousel-item img {
     object-fit: cover; /* Adjust the image to cover the area without distorting the aspect ratio */
-    height: 500px; /* Example fixed height; adjust as needed */
+    height: 700px; /* Example fixed height; adjust as needed */
 }
 
 .card-img-custom {
@@ -76,9 +76,9 @@ footer a:hover {
 }
 
 .btn-red {
-  background-color: #C40E5A; /* Green background */
-  color: white; /* White text */
-  border-color: #C40E5A; /* Green border */
+  background-color: #C40E5A; 
+  color: #FFF3E1; 
+  border-color: #C40E5A; 
 }
 
 .btn-red:hover {
