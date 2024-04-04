@@ -55,14 +55,14 @@ footer a:hover {
 }
 
 .carousel-item img {
-    object-fit: cover; /* Adjust the image to cover the area without distorting the aspect ratio */
-    height: 700px; /* Example fixed height; adjust as needed */
+    object-fit: cover; 
+    height: 700px; 
 }
 
 .card-img-custom {
-  width: 100%; /* Ensure it takes up the full width of the card */
-  object-fit: cover; /* Cover the area without breaking aspect ratio */
-  height: 200px; /* Example fixed height */
+  width: 100%; 
+  object-fit: cover; 
+  height: 200px; 
 }
 
 .btn-custom {
@@ -72,7 +72,7 @@ footer a:hover {
 }
 
 .btn-custom:hover {
-  background-color: #E8631F; /* Darker green background on hover */
+  background-color: #E8631F; 
 }
 
 .btn-red {
@@ -82,7 +82,7 @@ footer a:hover {
 }
 
 .btn-red:hover {
-  background-color: #E8631F; /* Darker green background on hover */
+  background-color: #E8631F; 
 }
 
 .who {
@@ -114,9 +114,9 @@ footer a:hover {
 }
 
 .home-img-custom {
-  width: 500px; /* Ensure it takes up the full width of the card */
-  object-fit: cover; /* Cover the area without breaking aspect ratio */
-  height: 300px; /* Example fixed height */
+  width: 500px; 
+  object-fit: cover; 
+  height: 300px; 
 }
 
 .custom-container-bg-orange {
